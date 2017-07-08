@@ -20,7 +20,7 @@ def homepage():
             background: #CCCCCC;
         }}
         </style>
-        <title>ANDRE TESTE</title>
+        <title>ANDRE TESTE....</title>
     </head>
     <body>
         <h1>ANDRE</h1>
