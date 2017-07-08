@@ -16,7 +16,7 @@ def homepage():
     <head>
         <style>
         pre {{
-            background: #ffBF00;
+            background: #ffffff;
             background: #888888;
         }}
         </style>
