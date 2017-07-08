@@ -1,4 +1,12 @@
-FizzBuzz
+CONTRIBUIÇÃO: ANDRÉ WOHLFAHRT
+TRABALHO DE METODOLOGIAS ÁGEIS: PROFESSOR DANIEL WILDT - UNIRITTER
+TRABALHO REALIZADO EM 08/07/2017
+
+SAUDAÇÕES!
+
+
+
+DESCRIÇÃO FizzBuzz
 ====
 
 [![Build Status](https://travis-ci.org/luiscoms/python-fizzbuzz.svg?branch=develop)](https://travis-ci.org/luiscoms/python-fizzbuzz) [![Heroku](https://heroku-badge.herokuapp.com/?app=python-fizzbuzz)](https://python-fizzbuzz.herokuapp.com/)
