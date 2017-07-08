@@ -17,16 +17,15 @@ def homepage():
         <style>
         pre {{
             background: #ffBF00;
-            background: #CCCCCC;
+            background: #888888;
         }}
         </style>
         <title>TRABALHO ANDRE WOHLFAHRT</title>
     </head>
-    <body>
-        <h1>Metodos Ageis Uniritter - Professor Daniel Wildt</h1>
-        <p>
-        <p>
-        <p>Teste de Deploy {time}.</p>
+    <body backgroundcolor=#00ff00>
+        <center><h1>Metodos Ageis Uniritter - Professor Daniel Wildt</h1></center>
+        <br><br><br><br><br><br><br><br><br><br>
+        <p><font color=red>Teste de Deploy {time}.</font></p>
 
         <pre>
 {result}
